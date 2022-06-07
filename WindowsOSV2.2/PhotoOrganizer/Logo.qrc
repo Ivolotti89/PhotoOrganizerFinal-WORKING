@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>resources/dino-logo-resized.jpg</file>
+    <file>resources/dino-new.png</file>
+  </qresource>
+</RCC>
