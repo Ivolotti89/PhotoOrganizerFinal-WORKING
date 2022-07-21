@@ -1,0 +1,2 @@
+This Script can be used on Windows or Mac. It was created to help photographers of Foto Dino to sort their picutres after a photoshoot day with multiple clients.
+The photographer is suppossed to take a pic of a qr code when he has a photoshoot session. The qr code later helps the script ,to read and identify which client has been photographed and creates a folder with only the pics of this client later.
